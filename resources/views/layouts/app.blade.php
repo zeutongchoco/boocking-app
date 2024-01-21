@@ -62,7 +62,7 @@
         </div>
         <ul class="sub-menu">
           <li><a class="link_name" href="#">Posts</a></li>
-          <li><a href="#">Web Design</a></li>
+          <!-- <li><a href="#">Web Design</a></li> -->
           <!-- <li><a href="#">Login Form</a></li> -->
           <!-- <li><a href="#">Card Design</a></li> -->
         </ul>
